@@ -1,0 +1,2 @@
+Factura #886, Cliente: Carlos, Compra: tacos, Monto: 25.00
+Factura #383, Cliente: Pedro, Compra: tacos, Monto: 100.00
